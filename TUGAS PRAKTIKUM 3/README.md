@@ -1,6 +1,6 @@
 # Tugas Praktikum PAM - Minggu 3: My Profile App
 
-**Nama:** Ripaldy SAputra  
+**Nama:** Ripaldy Saputra Lumbantoruan  
 **NIM:** 12340179  
 **Mata Kuliah:** Pengembangan Aplikasi Mobile (PAM)
 
@@ -34,5 +34,5 @@ Dalam pengerjaan tugas ini, saya telah menerapkan konsep-konsep UI Declarative d
 - `.clip(CircleShape)` dipadukan dengan `.border()` untuk membuat foto profil berbentuk lingkaran sempurna dengan garis tepi berwarna putih.
 - `.background()` untuk memberi warna abu-abu terang pada layar utama aplikasi.
 
-## ⭐ Fitur Bonus (+10%)
+## Fitur Bonus (+10%)
 - **Animasi (AnimatedVisibility):** Aplikasi ini menerapkan *state* boolean (`showContactInfo`) yang terhubung dengan komponen `AnimatedVisibility`. Saat tombol "Tampilkan Kontak" ditekan, bagian *Card* informasi kontak akan muncul dan menghilang dengan transisi animasi yang halus (tidak muncul secara mendadak/kaku).
